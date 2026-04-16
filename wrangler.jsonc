@@ -10,15 +10,15 @@
     "d1_databases": [
         {
           "binding": "DB",
-          "database_name": "<YOUR-DATABASE-NAME>",
-          "database_id": "<YOUR-DATABASE-ID>"
+          "database_name": "lookai",
+          "database_id": "5b75a9fd-1230-41da-87e5-83578903942d"
         }
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "<YOUR-STORE-ID>",
+            "store_id": "f312fc8992124510bfb0ed64596d2a95",
             "binding": "SECRET",
-            "secret_name": "<YOUR-SECRET-NAME>"
+            "secret_name": "admin-wy"
         }
     ],
 	"observability": {
